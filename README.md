@@ -1,3 +1,3 @@
 # dynamiclyrics
 
-(This was implemented before YouTube Music's Synced Lyrics Feature) An implementation of synced lyrics for YouTube Music.
+(Implemented before YouTube Music's similar Synced Lyrics Feature) An implementation of synced lyrics for YouTube Music.
